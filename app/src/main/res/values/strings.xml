@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TripTracker</string>
+    <string name="email_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_label">login_button</string>
+    <string name="sign_up_text">sign_up_button</string>
+</resources>
